@@ -12,7 +12,7 @@
 
 <p align="left">
   💼I have experience working on both the front-end and back-end <br>
-  📚 Currently, I am learning Next.js and developing my skills in Typescript <br>
+  📚 Currently, I am learning Docker<br>
   🌟I would like to spend more time working on open-source projects <br>
   🎯 My goal is to start working professionally as a software developer
   </p>
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="SASS" />
   <br>
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="VERCEL" />
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express js" />
   
 </div>
 
