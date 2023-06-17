@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">My name is Allan Efendic and I'm a software developer, from Sweden.</p>
-
 ###
 
 <h2 align="left">About me</h2>
@@ -13,8 +11,7 @@
 <p align="left">
   💼I have experience working on both the front-end and back-end <br>
   📚 Currently, I am learning Docker<br>
-  🌟I would like to spend more time working on open-source projects <br>
-  🎯 My goal is to start working professionally as a software developer
+  
   </p>
 
 ###
