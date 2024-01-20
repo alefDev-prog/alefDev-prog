@@ -35,6 +35,8 @@
   <br>
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="VERCEL" />
   <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express js" />
+  <img src="https://img.shields.io/badge/Python-000000.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-C9452A.svg?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
   
 </div>
 
